@@ -1,4 +1,4 @@
-# Pokémon Code Project
+# Pokédex Database
 
 ## Overview
 This project implements functionalities to interact with Pokémon data. It allows users to retrieve specific Pokémon information, manage Pokémon attributes, and simulate Pokémon interactions.
