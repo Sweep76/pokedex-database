@@ -14,8 +14,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sweep76/pokemon-project.git
-   cd pokemon-project
+   git clone https://github.com/Sweep76/pokedex-database
 
 2. Clone the repository:
    ```bash
